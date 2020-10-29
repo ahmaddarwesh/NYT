@@ -1,4 +1,4 @@
-NewYork Times Article
+NewYork Times Articles
 
 1- Clone this repostory on your computer
 
