@@ -1,0 +1,34 @@
+Project building steps 
+
+1- Prepar project with important dependencies 
+   * Retrofit
+   * MVVM (structural design pattern)
+   * Recyclerview
+   
+   
+2- Starting preparing packages for good structural
+   * data
+   * ui
+   * model
+
+
+3- Config Retrofit to make call with API 
+   * Create interface
+   * Create Clien with our url
+   * Config json converter 
+  
+
+4- Create models and ViewModel Class to process data
+   * Create instance in MainActivity to use
+   * Get data from Interface and set in Adapter 
+
+
+5- Config UI to show data
+   * Create RecycllerView
+   * Create Adapter to set data in RecycllerView
+   
+
+6- Config the Testing section in (Unit Test)
+   * Make call to Api for Testing 
+   * Check responce status 
+ 
